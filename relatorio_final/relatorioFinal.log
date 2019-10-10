@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.22)  8 OCT 2019 18:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.22)  10 OCT 2019 15:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -364,88 +364,87 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `relatorioFinal.toc'.
 
- [2] [3] [4] [5] [6] [7]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 122.
+ [2] [3] [4] [5] [6] [7] [8]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 131.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 122.
-<./stress.png, id=35, 465.74pt x 293.095pt>
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 131.
+<./stress.png, id=38, 465.74pt x 293.095pt>
 File: ./stress.png Graphic file (type png)
 <use ./stress.png>
-Package pdftex.def Info: ./stress.png  used on input line 125.
+Package pdftex.def Info: ./stress.png  used on input line 134.
 (pdftex.def)             Requested size: 284.52756pt x 179.06049pt.
-<./focus.png, id=37, 463.7325pt x 299.1175pt>
+<./focus.png, id=40, 463.7325pt x 299.1175pt>
 File: ./focus.png Graphic file (type png)
 <use ./focus.png>
-Package pdftex.def Info: ./focus.png  used on input line 131.
+Package pdftex.def Info: ./focus.png  used on input line 140.
 (pdftex.def)             Requested size: 284.52756pt x 183.52942pt.
- [8 <./stress.png>]
-<./relaxation.png, id=42, 458.71375pt x 281.05pt>
+ [9 <./stress.png>]
+<./relaxation.png, id=45, 458.71375pt x 281.05pt>
 File: ./relaxation.png Graphic file (type png)
 <use ./relaxation.png>
-Package pdftex.def Info: ./relaxation.png  used on input line 137.
+Package pdftex.def Info: ./relaxation.png  used on input line 146.
 (pdftex.def)             Requested size: 284.52756pt x 174.33496pt.
-<./interest.png, id=43, 467.7475pt x 306.14375pt>
+<./interest.png, id=46, 467.7475pt x 306.14375pt>
 File: ./interest.png Graphic file (type png)
 <use ./interest.png>
-Package pdftex.def Info: ./interest.png  used on input line 143.
+Package pdftex.def Info: ./interest.png  used on input line 152.
 (pdftex.def)             Requested size: 284.52756pt x 186.23355pt.
- [9 <./focus.png> <./Relaxation.png>]
-<./excitement.png, id=49, 465.74pt x 288.07625pt>
+ [10 <./focus.png> <./Relaxation.png>]
+<./excitement.png, id=52, 465.74pt x 288.07625pt>
 File: ./excitement.png Graphic file (type png)
 <use ./excitement.png>
-Package pdftex.def Info: ./excitement.png  used on input line 149.
+Package pdftex.def Info: ./excitement.png  used on input line 158.
 (pdftex.def)             Requested size: 284.52756pt x 175.99438pt.
-<./engagement.png, id=50, 464.73625pt x 293.095pt>
+<./engagement.png, id=53, 464.73625pt x 293.095pt>
 File: ./engagement.png Graphic file (type png)
 <use ./engagement.png>
-Package pdftex.def Info: ./engagement.png  used on input line 155.
+Package pdftex.def Info: ./engagement.png  used on input line 164.
 (pdftex.def)             Requested size: 284.52756pt x 179.4451pt.
- [10 <./interest.png> <./excitement.png>]
-<./Coleta1.png, id=56, 476.78125pt x 276.03125pt>
+ [11 <./interest.png> <./excitement.png>] [12 <./engagement.png>]
+<./Coleta1.png, id=63, 476.78125pt x 276.03125pt>
 File: ./Coleta1.png Graphic file (type png)
 <use ./Coleta1.png>
-Package pdftex.def Info: ./Coleta1.png  used on input line 165.
+Package pdftex.def Info: ./Coleta1.png  used on input line 187.
 (pdftex.def)             Requested size: 284.52756pt x 164.73552pt.
- [11 <./engagement.png>]
-<./Coleta3.png, id=61, 473.77pt x 293.095pt>
+ [13]
+<./Coleta3.png, id=68, 473.77pt x 293.095pt>
 File: ./Coleta3.png Graphic file (type png)
 <use ./Coleta3.png>
-Package pdftex.def Info: ./Coleta3.png  used on input line 173.
+Package pdftex.def Info: ./Coleta3.png  used on input line 195.
 (pdftex.def)             Requested size: 284.52756pt x 176.02382pt.
-<./Coleta4.png, id=62, 468.75125pt x 281.05pt>
+<./Coleta4.png, id=69, 468.75125pt x 281.05pt>
 File: ./Coleta4.png Graphic file (type png)
 <use ./Coleta4.png>
-Package pdftex.def Info: ./Coleta4.png  used on input line 179.
+Package pdftex.def Info: ./Coleta4.png  used on input line 201.
 (pdftex.def)             Requested size: 284.52756pt x 170.59113pt.
- [12 <./Coleta1.png> <./Coleta3.png>]
-<./Coleta5.png, id=68, 478.78876pt x 285.065pt>
+ [14 <./Coleta1.png> <./Coleta3.png>]
+<./Coleta5.png, id=75, 478.78876pt x 285.065pt>
 File: ./Coleta5.png Graphic file (type png)
 <use ./Coleta5.png>
-Package pdftex.def Info: ./Coleta5.png  used on input line 185.
+Package pdftex.def Info: ./Coleta5.png  used on input line 207.
 (pdftex.def)             Requested size: 284.52756pt x 169.40482pt.
-<./Coleta6.png, id=69, 477.785pt x 286.06876pt>
+<./Coleta6.png, id=76, 477.785pt x 286.06876pt>
 File: ./Coleta6.png Graphic file (type png)
 <use ./Coleta6.png>
-Package pdftex.def Info: ./Coleta6.png  used on input line 191.
+Package pdftex.def Info: ./Coleta6.png  used on input line 213.
 (pdftex.def)             Requested size: 284.52756pt x 170.35487pt.
- [13 <./Coleta4.png> <./Coleta5.png>]
-[14 <./Coleta6.png>]
-Overfull \hbox (18.86943pt too wide) in paragraph at lines 206--206
+ [15 <./Coleta4.png> <./Coleta5.png>] [16 <./Coleta6.png>] [17]
+Overfull \hbox (18.86943pt too wide) in paragraph at lines 231--231
 \OT1/lmr/m/n/14 http://www.inf.ufsc.br/ vera.carmo/Ensino[]2012[]1/ELABORACAO  
 
  []
 
-[15] [16] (./relatorioFinal.aux) ) 
+[18] [19] (./relatorioFinal.aux) ) 
 Here is how much of TeX's memory you used:
- 4426 strings out of 492615
- 62297 string characters out of 6131390
+ 4429 strings out of 492615
+ 62322 string characters out of 6131390
  129137 words of memory out of 5000000
- 8232 multiletter control sequences out of 15000+600000
+ 8235 multiletter control sequences out of 15000+600000
  52075 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,8n,32p,831b,296s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -459,10 +458,10 @@ lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.p
 fb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmsy10.pfb>
-Output written on relatorioFinal.pdf (16 pages, 308328 bytes).
+Output written on relatorioFinal.pdf (19 pages, 312070 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+ 133 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -6,7 +6,12 @@
 \contentsline {subsection}{\numberline {4.2}Method}{5}% 
 \contentsline {subsubsection}{\numberline {4.2.1}Study object}{5}% 
 \contentsline {subsubsection}{\numberline {4.2.2}Proposed Activities}{5}% 
-\contentsline {section}{\numberline {5}Results}{8}% 
-\contentsline {section}{\numberline {6}Discussion}{11}% 
-\contentsline {subsection}{\numberline {6.1}validation}{14}% 
-\contentsline {section}{\numberline {7}References}{15}% 
+\contentsline {subsubsection}{\numberline {4.2.3}About semi-structured interview}{8}% 
+\contentsline {subsection}{\numberline {4.3}Statistical Analyses}{8}% 
+\contentsline {section}{\numberline {5}Results}{9}% 
+\contentsline {section}{\numberline {6}Discussion}{13}% 
+\contentsline {subsection}{\numberline {6.1}About the emotions on the paper}{13}% 
+\contentsline {subsection}{\numberline {6.2}About Results}{13}% 
+\contentsline {subsection}{\numberline {6.3}validation}{16}% 
+\contentsline {subsection}{\numberline {6.4}Significance of this work}{17}% 
+\contentsline {section}{\numberline {7}References}{18}% 
