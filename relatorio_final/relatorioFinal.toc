@@ -2,7 +2,11 @@
 \contentsline {section}{\numberline {2}Significance Statement}{3}% 
 \contentsline {section}{\numberline {3}Introduction}{4}% 
 \contentsline {section}{\numberline {4}Materials and Methods}{5}% 
-\contentsline {subsection}{\numberline {4.1}Experimental desing and statistical Analyses}{5}% 
-\contentsline {section}{\numberline {5}Results}{5}% 
-\contentsline {section}{\numberline {6}Discussion}{9}% 
-\contentsline {section}{\numberline {7}References}{10}% 
+\contentsline {subsection}{\numberline {4.1}Materials}{5}% 
+\contentsline {subsection}{\numberline {4.2}Method}{5}% 
+\contentsline {subsubsection}{\numberline {4.2.1}Study object}{5}% 
+\contentsline {subsubsection}{\numberline {4.2.2}Proposed Activities}{5}% 
+\contentsline {section}{\numberline {5}Results}{8}% 
+\contentsline {section}{\numberline {6}Discussion}{11}% 
+\contentsline {subsection}{\numberline {6.1}validation}{14}% 
+\contentsline {section}{\numberline {7}References}{15}% 

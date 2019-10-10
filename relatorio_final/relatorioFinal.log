@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.22)  3 OCT 2019 16:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.22)  8 OCT 2019 18:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -181,6 +181,64 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks19
 \@floatcapt=\box31
 )
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen116
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen117
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count109
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count110
+\leftroot@=\count111
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count112
+\DOTSCASE@=\count113
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box32
+\strutbox@=\box33
+\big@size=\dimen118
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count114
+\c@MaxMatrixCols=\count115
+\dotsspace@=\muskip11
+\c@parentequation=\count116
+\dspbrk@lvl=\count117
+\tag@help=\toks21
+\row@=\count118
+\column@=\count119
+\maxfields@=\count120
+\andhelp@=\toks22
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
+\@envbody=\toks23
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
 
 LaTeX Warning: Unused global option(s):
     [openright].
@@ -188,35 +246,35 @@ LaTeX Warning: Unused global option(s):
 (./relatorioFinal.aux)
 \openout1 = `relatorioFinal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 18.
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count109
-\scratchdimen=\dimen116
-\scratchbox=\box32
-\nofMPsegments=\count110
-\nofMParguments=\count111
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count112
-\MPscratchDim=\dimen117
-\MPnumerator=\count113
-\makeMPintoPDFobject=\count114
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count121
+\scratchdimen=\dimen125
+\scratchbox=\box34
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen126
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks26
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -264,115 +322,147 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count115
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 19.
+\c@lstlisting=\count127
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 20.
 
 
 (/usr/share/texmf/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 43.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 44.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 43.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 44.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 43.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 44.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 43.
+(Font)              <12> on input line 44.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 43.
+(Font)              <8> on input line 44.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 43.
+(Font)              <6> on input line 44.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 43.
+(Font)              <10> on input line 44.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 43.
+(Font)              <7> on input line 44.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 43.
+(Font)              <5> on input line 44.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./relatorioFinal.toc)
 \tf@toc=\write3
 \openout3 = `relatorioFinal.toc'.
 
- [2] [3] [4]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 72.
+ [2] [3] [4] [5] [6] [7]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 122.
+
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 72.
-<./stress.png, id=21, 465.74pt x 293.095pt>
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 122.
+<./stress.png, id=35, 465.74pt x 293.095pt>
 File: ./stress.png Graphic file (type png)
 <use ./stress.png>
-Package pdftex.def Info: ./stress.png  used on input line 75.
+Package pdftex.def Info: ./stress.png  used on input line 125.
 (pdftex.def)             Requested size: 284.52756pt x 179.06049pt.
-<./focus.png, id=23, 463.7325pt x 299.1175pt>
+<./focus.png, id=37, 463.7325pt x 299.1175pt>
 File: ./focus.png Graphic file (type png)
 <use ./focus.png>
-Package pdftex.def Info: ./focus.png  used on input line 81.
+Package pdftex.def Info: ./focus.png  used on input line 131.
 (pdftex.def)             Requested size: 284.52756pt x 183.52942pt.
- [5 <./stress.png>]
-<./relaxation.png, id=29, 458.71375pt x 281.05pt>
+ [8 <./stress.png>]
+<./relaxation.png, id=42, 458.71375pt x 281.05pt>
 File: ./relaxation.png Graphic file (type png)
 <use ./relaxation.png>
-Package pdftex.def Info: ./relaxation.png  used on input line 87.
+Package pdftex.def Info: ./relaxation.png  used on input line 137.
 (pdftex.def)             Requested size: 284.52756pt x 174.33496pt.
-<./interest.png, id=30, 467.7475pt x 306.14375pt>
+<./interest.png, id=43, 467.7475pt x 306.14375pt>
 File: ./interest.png Graphic file (type png)
 <use ./interest.png>
-Package pdftex.def Info: ./interest.png  used on input line 93.
+Package pdftex.def Info: ./interest.png  used on input line 143.
 (pdftex.def)             Requested size: 284.52756pt x 186.23355pt.
- [6 <./focus.png> <./Relaxation.png>]
-<./excitement.png, id=36, 465.74pt x 288.07625pt>
+ [9 <./focus.png> <./Relaxation.png>]
+<./excitement.png, id=49, 465.74pt x 288.07625pt>
 File: ./excitement.png Graphic file (type png)
 <use ./excitement.png>
-Package pdftex.def Info: ./excitement.png  used on input line 99.
+Package pdftex.def Info: ./excitement.png  used on input line 149.
 (pdftex.def)             Requested size: 284.52756pt x 175.99438pt.
- [7 <./interest.png>]
-<./engagement.png, id=42, 464.73625pt x 293.095pt>
+<./engagement.png, id=50, 464.73625pt x 293.095pt>
 File: ./engagement.png Graphic file (type png)
 <use ./engagement.png>
-Package pdftex.def Info: ./engagement.png  used on input line 105.
+Package pdftex.def Info: ./engagement.png  used on input line 155.
 (pdftex.def)             Requested size: 284.52756pt x 179.4451pt.
- [8 <./excitement.png>] [9 <./engagement.png>]
-Overfull \hbox (115.61046pt too wide) in paragraph at lines 124--125
-\OT1/lmr/m/n/14 https://pdfs.semanticscholar.org/c8e5/a8315ada36be049a74232f561
-b64ab9bb120.pdf  
+ [10 <./interest.png> <./excitement.png>]
+<./Coleta1.png, id=56, 476.78125pt x 276.03125pt>
+File: ./Coleta1.png Graphic file (type png)
+<use ./Coleta1.png>
+Package pdftex.def Info: ./Coleta1.png  used on input line 165.
+(pdftex.def)             Requested size: 284.52756pt x 164.73552pt.
+ [11 <./engagement.png>]
+<./Coleta3.png, id=61, 473.77pt x 293.095pt>
+File: ./Coleta3.png Graphic file (type png)
+<use ./Coleta3.png>
+Package pdftex.def Info: ./Coleta3.png  used on input line 173.
+(pdftex.def)             Requested size: 284.52756pt x 176.02382pt.
+<./Coleta4.png, id=62, 468.75125pt x 281.05pt>
+File: ./Coleta4.png Graphic file (type png)
+<use ./Coleta4.png>
+Package pdftex.def Info: ./Coleta4.png  used on input line 179.
+(pdftex.def)             Requested size: 284.52756pt x 170.59113pt.
+ [12 <./Coleta1.png> <./Coleta3.png>]
+<./Coleta5.png, id=68, 478.78876pt x 285.065pt>
+File: ./Coleta5.png Graphic file (type png)
+<use ./Coleta5.png>
+Package pdftex.def Info: ./Coleta5.png  used on input line 185.
+(pdftex.def)             Requested size: 284.52756pt x 169.40482pt.
+<./Coleta6.png, id=69, 477.785pt x 286.06876pt>
+File: ./Coleta6.png Graphic file (type png)
+<use ./Coleta6.png>
+Package pdftex.def Info: ./Coleta6.png  used on input line 191.
+(pdftex.def)             Requested size: 284.52756pt x 170.35487pt.
+ [13 <./Coleta4.png> <./Coleta5.png>]
+[14 <./Coleta6.png>]
+Overfull \hbox (18.86943pt too wide) in paragraph at lines 206--206
+\OT1/lmr/m/n/14 http://www.inf.ufsc.br/ vera.carmo/Ensino[]2012[]1/ELABORACAO  
+
  []
 
-[10] (./relatorioFinal.aux) ) 
+[15] [16] (./relatorioFinal.aux) ) 
 Here is how much of TeX's memory you used:
- 3794 strings out of 492615
- 54968 string characters out of 6131390
- 117701 words of memory out of 5000000
- 7621 multiletter control sequences out of 15000+600000
+ 4426 strings out of 492615
+ 62297 string characters out of 6131390
+ 129137 words of memory out of 5000000
+ 8232 multiletter control sequences out of 15000+600000
  52075 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,32p,831b,290s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc
-}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/p
-ublic/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/sha
-re/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/f
-onts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.p
-fb>
-Output written on relatorioFinal.pdf (10 pages, 236856 bytes).
+ 41i,8n,32p,831b,296s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathi
+t.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/font
+s/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</u
+sr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/p
+ublic/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/sh
+are/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/
+lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.p
+fb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmsy10.pfb>
+Output written on relatorioFinal.pdf (16 pages, 308328 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 123 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

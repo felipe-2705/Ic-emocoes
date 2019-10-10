@@ -9,6 +9,7 @@
 \pagenumbering{arabic}
 \usepackage{lineno}
 \usepackage{float}
+\usepackage{amsmath}
 \linenumbers
 
 
@@ -33,8 +34,8 @@
 \textbf{Number of pages:}\\
 \textbf{Number of figures:}\\
 \textbf{Number of tables:}\\
-\textbf{Abstract word number:131}\\
-\textbf{introdution word number:}\\
+\textbf{Abstract word number:132}\\
+\textbf{introdution word number:304}\\
 \textbf{discussion word number:}\newline
 	
 \textbf{Acknowledgments}\\	
@@ -46,13 +47,14 @@ My thanks to comppet group that lent me a room to make all data collecting and t
 \tableofcontents
 \newpage
 \section{Abstract}
-Depression and other mind diseases are currently being reported at universities. Due to it, this research was proposed to observe a group of newcomer students of the Federal University of Uberlândia (UFU) along two semesters. Furthermore ,using resources provided by BCI(Brain computer interface)  technology, to collect an amount of data about their emotional state.
+Depression and other mind diseases are currently being reported at universities. Due to it, this research was proposed to observe a group of newcomers students of the Federal University of Uberlandia (UFU) along two semesters. Furthermore, resources provided by BCI (Brain computer interface)  technology were used to collect an amount of data about their emotional state.
 
-Data collecting were made on 3 points of semester and each one was proposed to the volunteers to do a same activity related to computer science course. They executed those activities  while wearing a EEG based equipment, Epoc+, which was responsible for collecting their emotional data.
+Data collecting were made on 3 points of semester and each one was proposed to the volunteers to do  same activity related to computer science course. They executed those activities  while wearing a EEG based equipment, Epoc+, which was responsible for collecting their emotional data.
+The results were satisfying,  students became more stressed along time and their excitement decreased.     Surprisingly relaxation has increased, different from what was expected. The other feelings had no great changes, though.
 
 The results were satisfying,  students became more stressed along time and their excitement decreased.     Surprisingly relaxation has increased, different from what was expected. The other feelings had no great changes, though.
 \section{Significance Statement}
-Mental diseases such as depression, stress, anxiety and others, had increased in our society nowadays.  According to World health organization (WHO)  more than 300 million people of all ages suffer from the disease, furthermore, as cited in G1 between 2005 and 2015 in Brazil anxiety cases increased 14,9\% and the country is the first one in related cases of the illness on Latin America, with 5,8\% of the population affected. 
+Mental diseases such as depression, stress, anxiety and other, had increased in our society nowadays.  According to World health organization (WHO)  more than 300 million people of all ages suffer from the disease, furthermore, as cited in G1 between 2005 and 2015 in Brazil anxiety cases increased 14,9\% and the country is the first one in related cases of the illness on Latin America, with 5,8\% of the population affected. 
 
 The researcher Michelle Guimarães believes that detecting mental disorders can be a indicator of mental healthiness on young students and also she defends that those diseases reduces students productiveness. Due to it, this paper intend to detect the mental mood of students using Brain computer interface and appraise changes along time.  
 \section{Introduction}
@@ -62,8 +64,56 @@ A brain activity detection can be done by two kind of methods, invasive and non-
 
 Researches about identifying emotion based on EEG, technology used on this paper, are relatively  new and many researchers use beta and alpha waves to do it (Matlovic, 2016). The equipment used was Emotiv EPOC+,  which is EEG based and has support to same emotional states detection, those are stress, Focus, engagement, Relaxation, Interest and Excitement, the software used were Emotiv Xavier control panel (Emotiv Github, 2019) and the EmotivBCI (Emotiv, 2019). Both makes possible to calibrate the device to each student and build a percentage result of it emotion through time.
 \section{Materials and Methods}
-\subsection{Experimental desing and statistical Analyses}
 
+\subsection{Materials}
+
+The material used was Epoc+ of Emotiv, that can take waves from 0.16 Hz until 43 Hz(Comparison chart, 2019). As well, some codes in c language were used during tests.
+
+\subsection{Method}
+ \subsubsection{Study object}
+ The group of volunteers was taken from the newcomers class of 2018-2º semester of Federal University of Uberlandia Computation Faculty.  Due to the difficult of building a probability sample in a class with around 60 students, it was opted for a not probability sample. Although, it would not affect the results of the research, because not probability sample many times have similar results with probability samples (Manzato, 2012). The 4 students were choosen randomly, being 3 men and 1 woman.
+ \subsubsection{Proposed Activities}
+ During 2 semesters 5 data collects were made, around 15 minutes each, 2 on the first semester and 3  on the second semester, it happened because of a problem with internet during the second data collect of the first semester. The activities proposed in each one were :
+ 
+ \begin{enumerate}
+ 	\item The data was collected using the Software Xavier Control panel 3.5.1 and annotated handily on Microsoft excel tables.
+ 	 he proposed activity was a semi-structured interview with the following questions:\newline
+ 	 Question 1 - Describe How was your experience and hopes after enter the first time in the university. Some of that hopes were fulfilled ? \newline
+ 	 Question 2  - There a lot differences between academic life before and after entering a university. Can you city some of them that happened to you? Which of them affected you the most ?\newline
+ 	 Question 3 – How your relationship with the professors is?\newline
+ 	 Question 4 – Many times university is the begin of adult life adding some new responsibilities. Did you have any new responsibilities after entering university ? How do you deal with them ?\newline
+ 	 
+ 	 Each of these question were made with one goal :\newline
+ 	 1- Try to persuade the student to feel as he did with his first experiences at university;\newline
+ 	 2-  To influence the volunteer to ponder about how his life has changed and if those changes were good or bad;\newline
+ 	 3 and 4 – The main goal of it is to persuade the student to think about his new life at university, new relationships and how they feel about it.\newline
+  \item  The Second data collect was not concluded.
+  \item That data collect was made using 2 software Xavier control panel 3.5.1 and EmotivBCI Both are free distributed by Emotiv. The proposed activity was programming in c language, which is contemplate by first semester grade of the course. A program c was given to them, that program had a syntax problem and they should correct it. 
+  
+  \item This collect was made on the second semester of the research. It, also, was a semi-structured interview with the following questions:\newline
+  Question 1- Describe how was the experience in the previous semester.\newline
+  Question 2 – How did you feel returning to university after vacation ? This feeling can on some way influence your future choices ?\newline
+  Question 3 – How your relationship with professors is ? Compare with the professors on the previous semester. How do you deal with bad professors ?\newline
+  
+  Each of these questions were made with a goal:
+  
+  1 – Try to persuade the student to think about his experience on the previous semester;\newline
+  2 – To influence the student to ponder about how his previous experiences affected his will to study and continue coming to college;\newline
+  3 -  The main goal is to persuade the student to think about how his behavior with professors has changed or not.\newline
+  
+  \item The proposed activity was a integral calculus one, They had 15 minutes to solve the following:\newline
+  
+  		1- \[ \int\dfrac{dx}{\sin^2{3x - 1}} \]\newline
+  		2- \[ \int (x^2 + 2x)e^x dx \]
+  		
+  		3- \[ \int \dfrac{\sqrt{a^2 - x^2}}{x^2}dx \]
+  		
+   \item The proposed activity was equal to the 5, only different functions were proposed:\newline
+        1 - \[ \int (\csc x  \cot x) dx  \] 
+        2- \[ \int_{1}^{2} x \ln x dx \]
+  It is important to notice that integral calculus is taught on first usemester and they were on their second.
+ \end{enumerate}
+ 
 \section{Results}
  The research has shown satisfactory results. As well as expected, the students stress increased and excitement values of volunteers N1 and N2  reduced along time. The student N3 showed to be a outlier, due to it, the results will be divided by calculus counting with N3 and not counting with it.
  
@@ -81,7 +131,7 @@ Researches about identifying emotion based on EEG, technology used on this paper
  	  	\includegraphics[width=10cm]{./focus.png}
  	  	\caption{students focus values along data collecting}
  	  \end{figure}
- 	\item Relaxation: Another important emotion to this paper, which has shown controversial feedback, due to its constant rise of values along data collecting. The emotion has not shown high differences of values, hence standard deviation of it was approximately 7\% without student N3 and around 14\% within N3.
+ 	\item Relaxation: Another important emotion to this paper, which has shown controversial feedback, due to constant rise of values along data collecting. The emotion has not shown high differences between students, hence standard deviation of it was approximately 7\% without student N3 and around 14\% within N3.
  	  \begin{figure}[H]
  	 	\centering
  	 	\includegraphics[width=10cm]{./relaxation.png}
@@ -107,21 +157,71 @@ Researches about identifying emotion based on EEG, technology used on this paper
  	   \end{figure}
  \end{itemize}
 \section{Discussion}
+Along time it is possible to realize a increase in students values of Relaxation and stress. Excitement, Focus, Interest showed a decrease and Engagement the lowest changes on the same student. It is possible to see the values change by the collecting graphics :
+\begin{itemize}
+\item Collect 1 : Only one made with all four volunteers.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=10cm]{./Coleta1.png}
+    \caption{Coleta 1 results}
+\end{figure}
+\item Collect 2: That Collect data was lost due to a internet problem during the test.
+
+\item Collect 3: participants N1, N2 and N3.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=10cm]{./Coleta3.png}
+	\caption{Coleta 3 results}
+\end{figure}
+\item Collect 4: participants N1, N2 and N3.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=10cm]{./Coleta4.png}
+	\caption{Coleta 4 results}
+\end{figure}
+\item Collect 5 : participants N1, N2 and N3..
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=10cm]{./Coleta5.png}
+	\caption{Coleta 5 results}
+\end{figure}
+\item Collect 6: Due to same personal problems student N3 did not participated in this data collecting. Participants N1 and N2.  
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=10cm]{./Coleta6.png}
+	\caption{Coleta 6 results}
+\end{figure}
+
+\end{itemize}
+
+
+\subsection{validation}
+The used equipment Epoc+ from Emotiv is able to detect waves of frequecy from 0.16 Hz until 43 Hz(Comparison chart, 2019), that means it can capture from Delta waves up to Gamma waves. Furthermore, according to some researchers Beta and Alpha waves are enough to emotion detection (Matlovic, 2016).  
+
+Relaxation and Stress have, both, increase and it may be controversial, due to their contrary nature. Although, a possible interpretation to that fact is that students would be more used to university environment and all differences in their lives before and after college, what could has made them more comfortable, what would explain the relaxation increase. As well, the stress increase could be explained  by the university mood, which in Brazil, is highly different from high school mood.
+
 \newpage
 \section{References}
 
+  Antonio J. Manzato (2012) A Elaboraçao de questionários na pesquisa quantitativa (Portuguese).Source: http://www.inf.ufsc.br/~vera.carmo/Ensino\_2012\_1/ELABORACAO\\ \_QUESTIONARIOS \_PESQUISA\_QUANTITATIVA.pdf\newline
+   
   Emotiv (2019) EmotivBCI. Source: https://www.emotiv.com/emotiv-bci/ \newline
+  
+  Emotiv Comparison Chart (2019) Headset Comparison Chart. Source: https://www.emotiv.com/comparison/ \newline
   
   Emotiv GitHub (2019) Emotiv Software Development kit. Source: https://github.com/Emotiv/community-sdk/tree/master/tools \newline
   
   Erik A. Larsen (2011) Classification of EEG Signals in a Brain-Computer Interface System. Source: https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/252472 \newline
+  
+  Fernando S. Santos, Carlos R. C. Maia, Fernanda C. Faedo, Melriden E. Nunes, Marcos V. M. de Oliveira (2017) Stress among Pre-University and Undergraduate
+  Medical Students. Source: http://www.scielo.br/pdf/rbem/v41n2/1981-5271-rbem-41-2-0194.pdf 
   
   G1 (2017) Depressão cresce no mundo, segundo OMS; Brasil tem maior prevalência da América Latina (Portuguese). Source:https://g1.globo.com/bemestar/noticia/depressao-cresce-no-mundo-segundo-oms-brasil-tem-maior-prevalencia-da-america-latina.ghtml.\newline
   
   
   Michelle Guimarães (2014) Depressão,Ansiedade,Estresse e Qualidade de vida dos estudantes de universidade pública e privada (Portuguese).Source: http://tede.metodista.br/jspui/handle/tede/1348 \newline 
   
-  Thomas Mastlovic (2016) Emotion Detection using EPOC EEG device. Souce: https://pdfs.semanticscholar.org/c8e5/a8315ada36be049a74232f561b64ab9bb120.pdf \newline
+  Thomas Mastlovic (2016) Emotion Detection using EPOC EEG device. Souce: https://pdfs.semanticscholar.org/c8e5/a8315ada36be049a\\74232f561b64ab9bb120.pdf \newline
   
   World Health Organization(2018) Depression. Source: https://www.who.int/en/news-room/fact-sheets/detail/depression \newline
   
